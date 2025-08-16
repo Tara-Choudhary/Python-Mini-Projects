@@ -1,6 +1,6 @@
 # Grade Calculator
 
-This project is a simple Python script (`grade_calculator.py`) that calculates a student's total marks, percentage, and grade based on subjects and their marks.
+This project is a simple Python script (`Calculator.py`) that calculates a student's total marks, percentage, and grade based on subjects and their marks.
 
 It demonstrates the use of **variables, loops, dictionaries, and conditionals** in Python.
 
@@ -17,3 +17,4 @@ It demonstrates the use of **variables, loops, dictionaries, and conditionals** 
 - Practiced using **loops and conditionals**
 - Learned how to store data in a **dictionary**
 - Improved logic building by calculating totals and percentages
+
