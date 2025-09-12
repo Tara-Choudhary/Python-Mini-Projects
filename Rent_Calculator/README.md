@@ -1,0 +1,29 @@
+# Rent_Calculator
+
+A simple Python program to calculate and split rent and other shared expenses among roommates.
+
+---
+
+## 📌 Description
+The **Rent_Calculator** project is designed to help roommates easily calculate their individual share of rent and other shared expenses.  
+By inputting the total costs (rent, utilities, electricity, and food) along with the number of people sharing, the program provides a clear breakdown of expenses and each person's contribution.  
+
+This project is ideal for beginners learning Python and also serves as a practical tool for shared living situations.
+
+---
+
+## ✨ Features
+- Input total rent and shared expenses:
+  - Rent  
+  - Utilities  
+  - Electricity  
+  - Food  
+- Calculate the **total monthly expense**.  
+- Split the total expense evenly among the number of roommates.  
+- Display a **detailed breakdown** of all expenses and each person’s share.  
+
+
+
+
+
+
